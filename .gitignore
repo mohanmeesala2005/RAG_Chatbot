@@ -1,0 +1,27 @@
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+node_modules/
+dist/
+build/
+.DS_Store
+*.sqlite3
+*.log
+.env
+.env.*
+# Editor directories
+.vscode/
+.idea/
+
+# Playwright browsers and driver artifacts (don't commit heavy binaries)
+playwright/.local-browsers/
+
+# npm
+package-lock.json
+
+# mac
+*.swp
